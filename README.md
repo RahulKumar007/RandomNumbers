@@ -1,8 +1,10 @@
 # RandomNumbers
+
 Using linear congruential generator algo to generate numbers which are 73% biased to higher numbers.
 
 
 Inner Process
+
 1.> First we obtain the lower bound, upper bound and total numbers to be generated from the user.
 
 2.> We then call the parallel() function which then uses threads to call further 2 functions lower() and higher() which generate lower and higher numbers respectively.
