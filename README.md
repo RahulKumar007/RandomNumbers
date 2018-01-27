@@ -24,17 +24,18 @@ Inner Process
 
 
 Example
-  Enter the lower bound : 
-  1
-  Enter the upper bound : 
-  10
-  Enter the length of the series : 
-  100
-  The random number series is : 
 
-  4 , 1 , 1 , 4 , 2 , 1 , 3 , 3 , 4 , 4 , 2 , 2 , 3 , 2 , 4 , 5 , 1 , 2 , 2 , 3 , 4 , 2 , 2 , 4 , 1 , 2 , 4 , 10 , 6 , 7 , 6 , 9 , 8 , 9   , 7 , 10 , 8 , 8 , 6 , 8 , 9 , 7 , 7 , 6 , 10 , 6 , 7 , 7 , 8 , 7 , 7 , 9 , 9 , 10 , 6 , 10 , 7 , 6 , 9 , 7 , 6 , 9 , 10 , 6 , 6 , 8 ,   6 , 7 , 9 , 9 , 6 , 8 , 7 , 8 , 9 , 6 , 8 , 6 , 6 , 9 , 8 , 6 , 10 , 6 , 6 , 9 , 10 , 9 , 8 , 9 , 6 , 9 , 9 , 9 , 9 , 9 , 7 , 8 , 8 ,   6 ,
+          Enter the lower bound :
+          1
+          Enter the upper bound : 
+          10
+          Enter the length of the series : 
+          100
+          The random number series is : 
 
-  Process finished with exit code 0
+          4 , 1 , 1 , 4 , 2 , 1 , 3 , 3 , 4 , 4 , 2 , 2 , 3 , 2 , 4 , 5 , 1 , 2 , 2 , 3 , 4 , 2 , 2 , 4 , 1 , 2 , 4 , 10 , 6 , 7 , 6 ,           9 , 8 , 9   , 7 , 10 , 8 , 8 , 6 , 8 , 9 , 7 , 7 , 6 , 10 , 6 , 7 , 7 , 8 , 7 , 7 , 9 , 9 , 10 , 6 , 10 , 7 , 6 , 9 , 7 , 6 ,           9 , 10 , 6 , 6 , 8 ,   6 , 7 , 9 , 9 , 6 , 8 , 7 , 8 , 9 , 6 , 8 , 6 , 6 , 9 , 8 , 6 , 10 , 6 , 6 , 9 , 10 , 9 , 8 , 9 , 6 ,           9 , 9 , 9 , 9 , 9 , 7 , 8 , 8 ,   6 ,
+
+          Process finished with exit code 0
 
 Total 27 lower and 73 greater numbers.
 
