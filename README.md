@@ -3,7 +3,7 @@
 Using linear congruential generator algo to generate numbers which are 73% biased to higher numbers.
 
 
-Inner Process
+INNER PROCESS
 
 1.> First we obtain the lower bound, upper bound and total numbers to be generated from the user.
 
@@ -25,7 +25,7 @@ Inner Process
           X_0 , 0 <= X_0 < m – the "seed" or "start value"
 
 
-Example
+EXAMPLE
 
           Enter the lower bound :
           1
