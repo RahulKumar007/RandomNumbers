@@ -15,8 +15,8 @@ Inner Process
 
 6.> The lcg algo used in the random function is defined by the recurrence relation:
 
-          X_n+1=(aX_n+c)  X_n+1=(aX_n+c) 
-          where  X X is the sequence of pseudorandom values, and
+          X_n+1 = (a * X_n + c) 
+          where  X is the sequence of pseudorandom values, and
           m , 0 < m  – the "modulus"
           a , 0 < a < m – the "multiplier"
           c , 0 <= c < m – the "increment"
